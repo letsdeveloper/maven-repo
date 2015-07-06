@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.letsdeveloper.games</groupId>
+  <artifactId>gameloop</artifactId>
+  <versioning>
+    <versions>
+      <version>0.0.2-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20150706081959</lastUpdated>
+  </versioning>
+</metadata>
